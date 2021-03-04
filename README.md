@@ -3,7 +3,7 @@
 {{cookiecutter.project_description}}
 
 
-This template will help you scaffold a new project using
+This template will help you scaffold a new machine learning project using
 [https://github.com/georgepar/slp](https://github.com/georgepar/slp), PyTorch and PyTorch
 Lightning.
 
