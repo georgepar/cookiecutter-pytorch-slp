@@ -4,7 +4,7 @@ debug: false
 trainer:
   experiment_name: {{cookiecutter.project_name}}
   experiment_description: |
-    {{cookiecutter.experiment_description}}
+    {{cookiecutter.project_description}}
     This experiment tests the model with ...
     Feel free to be way more verbose here
 
